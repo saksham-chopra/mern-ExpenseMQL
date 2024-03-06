@@ -15,6 +15,7 @@
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "chart.js": "^4.4.2",
     "clsx": "^2.1.0",
+    "expenseql": "file:..",
     "framer-motion": "^11.0.8",
     "graphql": "^16.8.1",
     "mini-svg-data-uri": "^1.4.4",
